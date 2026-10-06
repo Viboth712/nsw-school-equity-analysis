@@ -75,4 +75,4 @@ An end-to-end data analysis and visualisation project using NSW Government open 
 
 ---
 
-*Nouviboth Ra · [LinkedIn](https://www.linkedin.com/in/nouviboth-ra-792439362)*
+*Nouviboth Ra · [LinkedIn](https://www.linkedin.com/in/nbothra)*
